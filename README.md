@@ -19,3 +19,9 @@
 
 photo 2 w syrus
 <img width="260" height="199" alt="image" src="https://github.com/user-attachments/assets/22d8bdec-6fc3-4df5-9b5d-37994af2cff0" />
+
+
+                    photo w cronuss
+
+
+<img width="361" height="326" alt="image" src="https://github.com/user-attachments/assets/c78196c4-ce1d-4e45-a17b-e36042574554" />
