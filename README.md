@@ -25,3 +25,20 @@ photo 2 w syrus
 
 
 <img width="361" height="326" alt="image" src="https://github.com/user-attachments/assets/c78196c4-ce1d-4e45-a17b-e36042574554" />
+
+
+
+
+<br>
+
+
+
+
+
+
+
+                                  photo w yuni , follow shee    
+
+
+
+  <img width="271" height="244" alt="image" src="https://github.com/user-attachments/assets/471e6097-8ed9-433b-a335-af273fbbc60c" />
