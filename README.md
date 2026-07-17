@@ -33,7 +33,7 @@ photo 2 w syrus
 
 
 
-
+  
 
 
 
@@ -42,3 +42,18 @@ photo 2 w syrus
 
 
   <img width="271" height="244" alt="image" src="https://github.com/user-attachments/assets/471e6097-8ed9-433b-a335-af273fbbc60c" />
+
+
+
+<br> 
+
+
+              another one!
+
+
+
+
+
+
+
+<img width="424" height="167" alt="image" src="https://github.com/user-attachments/assets/3d295d59-8cdc-43c4-8212-b78c7a3fb753" />
